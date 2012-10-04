@@ -1,4 +1,7 @@
-﻿<cfcomponent>
+﻿<!---
+Hallo serkan :-)
+--->
+<cfcomponent>
 
 
 	<cffunction
