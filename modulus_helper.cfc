@@ -1,7 +1,4 @@
-﻿<!---
-Hallo serkan :-)
---->
-<cfcomponent>
+﻿<cfcomponent>
 
 
 	<cffunction
@@ -14,7 +11,6 @@ Hallo serkan :-)
 		<!---
 			http://www.c-plusplus.de/forum/262106
 		--->
-
 		<cfargument
 			name="date"
 			type="date"
